@@ -1,7 +1,7 @@
 
-  # NANA website Figma
+  # NANA AI
 
-  This is a code bundle for NANA website Figma. The original project is available at https://www.figma.com/design/pQy3ZvHfZbO48FlbwTotpt/NANA-website-Figma.
+  This is a code bundle for NANA AI
 
   ## Running the code
 
